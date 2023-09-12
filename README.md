@@ -15,4 +15,4 @@ FASHION
 https://adikeyshin.github.io/html/fashion.html
 
 TARAZ
-https://adikeyshin.github.io/html/New%20York/Taraz.html
+https://adikeyshin.github.io/html/blogs/taraz.html
