@@ -7,3 +7,6 @@ WIKIPEDIA
 https://adikeyshin.github.io/html/wikipedia.html
 RESUME
 https://adikeyshin.github.io/html/New%20York/resume.html
+
+FASHION
+https://adikeyshin.github.io/html/fashion.html
