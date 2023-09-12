@@ -1,6 +1,6 @@
 # adikeyshin.github.io
 NEW YORK
-https://adikeyshin.github.io/html/New%20York/New%20York.html
+https://adikeyshin.github.io/html/blogs/new-york.html
 
 FESTIVAL
 https://adikeyshin.github.io/html/scheudle/festival.html
