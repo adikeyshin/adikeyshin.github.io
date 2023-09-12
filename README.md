@@ -10,3 +10,6 @@ https://adikeyshin.github.io/html/New%20York/resume.html
 
 FASHION
 https://adikeyshin.github.io/html/fashion.html
+
+TARAZ
+https://adikeyshin.github.io/html/New%20York/Taraz.html
