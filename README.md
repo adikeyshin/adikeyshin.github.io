@@ -16,3 +16,6 @@ https://adikeyshin.github.io/html/fashion.html
 
 TARAZ
 https://adikeyshin.github.io/html/blogs/taraz.html
+
+COZYTEA
+https://adikeyshin.github.io/html/others/cozytea.html
