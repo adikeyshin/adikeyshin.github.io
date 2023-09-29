@@ -19,6 +19,9 @@ https://adikeyshin.github.io/html/blogs/taraz.html
 
 COZYTEA
 https://adikeyshin.github.io/html/others/cozytea.html
-FOTOMATIC
 
+FOTOMATIC
 https://adikeyshin.github.io/adik/fotomatic.html
+
+HOMEWORK
+https://adikeyshin.github.io/html/others/homework.html
