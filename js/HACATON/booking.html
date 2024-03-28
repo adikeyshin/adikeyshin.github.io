@@ -38,8 +38,8 @@
             justify-content: center;
             background: linear-gradient(
               to right,
-              rgb(162, 216, 162),
-              rgb(102, 194, 102)
+              rgb(26, 0, 154),
+              rgb(0, 5, 96)
             );
           }
           .tickets {
@@ -240,13 +240,13 @@
           <div class="tickets">
             <div class="ticket-selector">
               <div class="head">
-                <div class="title">Movie Name</div>
+                <div class="title">Билеты</div>
               </div>
               <div class="seats">
                 <div class="status">
-                  <div class="item">Available</div>
-                  <div class="item">Booked</div>
-                  <div class="item">Selected</div>
+                  <div class="item">Доступтный</div>
+                  <div class="item">Забронированные</div>
+                  <div class="item">Выбранные</div>
                 </div>
                 <div class="all-seats">
                   <input type="checkbox" name="tickets" id="s1" />
@@ -305,10 +305,10 @@
             </div>
             <div class="price">
               <div class="total">
-                <span> <span class="count">0</span> Tickets </span>
+                <span> <span class="count">0</span> Билеты </span>
                 <div class="amount">0</div>
               </div>
-              <button type="button">Book</button>
+              <button type="button">Купить</button>
             </div>
           </div>
         </div>
@@ -339,10 +339,10 @@
 
               if (ticket.checked) {
                 count += 1;
-                amount += 200;
+                amount += 1000;
               } else {
                 count -= 1;
-                amount -= 200;
+                amount -= 1000;
               }
               document.querySelector(".amount").innerHTML = amount;
               document.querySelector(".count").innerHTML = count;
