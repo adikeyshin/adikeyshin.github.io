@@ -1,0 +1,199 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* Ваши текущие стили */
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.service-item {
+  border: 2px solid #333;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .service-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.logo {
+  float: left;
+  margin-left: 20px;
+}
+
+.logo img {
+  width: 80px; /* Измените размер логотипа по вашему усмотрению */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.welcome-image {
+  position: relative;
+  text-align: center;
+}
+
+.welcome-image img {
+  width: 100%; /* Чтобы фото занимало всю ширину блока */
+}
+
+.welcome-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    float: none;
+    margin: 0 auto;
+  }
+
+  .welcome-text {
+    width: 90%;
+  }
+}
+
+.welcome-image {
+  width: 100%;
+}
+
+#places {
+  margin-bottom: 20px; /* Добавляем отступ снизу для раздела "Места для посещения" */
+}
+
+#options {
+  margin-top: 20px; /* Добавляем отступ сверху для вариантов */
+}
+
+/* Ваши текущие стили */
+
+#places {
+  margin-bottom: 20px; /* Добавляем отступ снизу для раздела "Места для посещения" */
+}
+
+#options {
+  margin-top: 20px; /* Добавляем отступ сверху для вариантов */
+}
+
+/* Ваши текущие стили */
+
+#places {
+  margin-bottom: 20px; /* Добавляем отступ снизу для раздела "Места для посещения" */
+}
+
+#options {
+  margin-top: 20px; /* Добавляем отступ сверху для вариантов */
+  display: none; /* Скрываем варианты по умолчанию */
+}
+
+#showOptionsBtn:hover + #options,
+#options:hover {
+  display: block; /* Показываем варианты при наведении на кнопку или сами варианты */
+}
+
+#options h3 {
+  cursor: pointer; /* Делаем заголовки вариантов кликабельными */
+}
+
+header {
+  background-color: #ffffff; /* Изменяем цвет шапки на белый */
+  color: #333; /* Цвет текста в шапке */
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+}
